@@ -1,5 +1,5 @@
-# {{MODPACK_NAME}}
-{{MODPACK_DESCRIPTION}}
+# Basic Fabric Test
+this is the description
 
 ## Installation Instructions
 

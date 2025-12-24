@@ -1,15 +1,15 @@
 {
-	"modpack": {
-		"name": "My Awesome Modpack",
-		"description": "A collection of mods that enhance gameplay and add new features.",
-		"version": "1.0.0",
-		"minecraft": {
-			"version": "1.21.10"
-		},
-		"modLoader": {
-			"type": "fabric",
-			"version": "0.17.3"
-		}
-	},
-	"mods": []
+  "modpack": {
+    "name": "Basic Fabric Test",
+    "description": "this is the description",
+    "version": "1.0.0",
+    "minecraft": {
+      "version": "1.20.1"
+    },
+    "modLoader": {
+      "type": "fabric",
+      "version": "0.17.3"
+    }
+  },
+  "mods": []
 }
